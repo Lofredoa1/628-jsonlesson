@@ -1,0 +1,27 @@
+[
+    {
+      "title": "The Godfather",
+      "release_year": "1972",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY1200_CR107,0,630,1200_AL_.jpg"
+    },
+    {
+      "title": "Casino",
+      "release_year": "1995",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Casino_poster.jpg"
+    },
+    {
+        "title": "Goodfellas",
+        "release_year": "1990",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+      },
+      {
+        "title": "The Departed",
+        "release_year": "2006",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81ZOilPKzYL._SL1500_.jpg"
+      },
+      {
+        "title": "Pulp Fiction",
+        "release_year": "1994",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+      }
+  ]
